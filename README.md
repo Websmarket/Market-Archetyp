@@ -77,7 +77,6 @@
             <li><strong>100,000</strong> Products sold</li>
         </ul>
     </section>
-
     <footer>
         <h2>We're Trusted by Many</h2>
         <p>With its focus on security, privacy, and user experience, Archetyp Darknet Market is a trusted platform for online trading. As the marketplace continues to grow, it remains committed to providing a safe and seamless experience for all users.</p>
